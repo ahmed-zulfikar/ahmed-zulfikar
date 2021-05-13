@@ -1,7 +1,7 @@
 ### Hello, I'm Zulfikar Ahmed!
 
 
-- 🔭 I’m currently working on Fintech Applications.
+- 🔭 I’m currently working at Geico.
 - 🌱 I’m currently learning Splunk.
 - 👯 I’m looking to collaborate on Slack/Teams.
 - 🤔 I’m looking for help with HASKELL.
