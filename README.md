@@ -8,5 +8,5 @@
 - 💬 Ask me about Fintech or anything tech related.
 - 📫 How to reach me: ahmedtuel14@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Number 1 Elon Musk fan.
+- ⚡ Fun fact: Number 1 Elon Musk fan and love esports!
 
