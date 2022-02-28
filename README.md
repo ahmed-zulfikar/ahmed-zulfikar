@@ -1,10 +1,10 @@
 ### Hello, I'm Zulfikar Ahmed!
 
 
-- 🔭 I’m currently working at Geico.
-- 🌱 I’m currently learning Splunk.
+- 🔭 I’m currently working at Evernorth.
+- 🌱 I’m currently learning CloudPak.
 - 👯 I’m looking to collaborate on Slack/Teams.
-- 🤔 I’m looking for help with PowerBI.
+- 🤔 I’m looking for help with Tableau.
 - 💬 Ask me about Fintech or anything tech related.
 - 📫 How to reach me: ahmedtuel14@gmail.com
 - 😄 Pronouns: He/Him
